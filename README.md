@@ -2,7 +2,7 @@
 ## 저는 해킹을 당했습니다.
 ### 수고하세요.
 
-<img src="https://media.giphy.com/media/3ov9k2PgNjBSAb29bi/giphy.gif" width="720px"/>
+<img src="https://media.giphy.com/media/3ov9k2PgNjBSAb29bi/giphy.gif" width="640px"/>
 
 
 <!--
