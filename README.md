@@ -1,4 +1,4 @@
-# 안녕하세요 저는 박신우 입니다. 👋
+# 안녕하세요 박신우 입니다
 
 <img src="https://media.giphy.com/media/3ov9k2PgNjBSAb29bi/giphy.gif" width="640px"/>
 
